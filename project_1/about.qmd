@@ -1,0 +1,72 @@
+---
+title: "About Me"
+---
+
+### About Me
+
+I am a first-year PhD student in Biostatistics at Johns Hopkins University, where I am a Vivien Thomas Scholar. My academic background includes a BSc in Biochemistry from the University of Arizona and research experience in computational biochemistry at MIT. 
+
+My professional background includes serving as a laboratory-based medical technologist with Tséhootsooí Medical Center and leading the Navajo Nation's Climate Change Program under the Navajo Nation Department of Fish and Wildlife. In my role with the Navajo Nation Climate Change Program, I oversaw $1.2MM in federal and tribal grant dollars focused on effecting climate resiliency measures for the Navajo reservation and her tribal members.
+
+I have also worked as a research technician at the University of Arizona and MIT. My post-baccalaureate research has included the study of directed evolution to create improved binding variants of the Cop operon repressor protein in *Streptococcus pneumoniae* and other novel copper-based therapeutics, in addition to the investigation of the properties and significance of the protein-level binding interactions between the Mena-EVH1 protein recognition domain and short peptides, including study of putative bidentate binding regimes for EVH1-interacting peptides.
+
+In my spare time, I have served as a mentor for Native American elementary school children, a reading seed mentor for 1st grade students with the Amphitheater public school system, a medical scribe with the Tohono O'Odham Nation Health Care's emergency department in Sells, AZ, a departmental ambassador for the UAZ Department of Chemistry and Biochemistry, and as a tutor for the UAZ Astronomy Department MESCIT program.
+
+I am passionate about using data to make the world a better place. I believe that data science has the power to address some of the most pressing challenges facing our society, and I am committed to using my skills and experience to make a positive impact. I am particularly interested in research topics in data science related to spatial genomics, ML autoencoders, as well as in environmental health and toxicology.
+
+## Professional Summary
+
+###   **Education**
+*   PhD in Biostatistics, Johns Hopkins University, 2024-2029 (expected)
+*   BSc in Biochemistry, University of Arizona, 2020
+
+###   **Work Experience**
+*   Medical Technologist I, Fort Defiance Indian Hospital Board, Inc., 2023-2024
+*   Medical Scribe, Tribal Health, 2023
+*   Research Technician I (Clerical), University of Arizona - Dept. of Immunobiology, 2022-2023
+*   Research Technician II, University of Arizona - Dept. of Pathology, 2021-2023
+*   Senior Research Support Associate, Massachusetts Institute of Technology - Dept. of Biology, 2020-2021
+
+### **Skills**
+
+*   **Medical Laboratory Skills:**
+    *   Proficient in various medical laboratory disciplines: blood bank, hematology, coagulation, chemistry, immunohistochemistry, molecular diagnostics, urinary analysis, and microbiology.
+    *   Experience with a range of instruments (VITROS XT-7600, Sysmex XN-1000+SP-50, GeneXpert Infinity, BioFire FILMARRAY, HOLOGIC Panther Fusion).
+    *   Phlebotomy skills across diverse age groups.
+    *   Implementation of quality control measures in a clinical laboratory setting.
+    *   Assay development and optimization.
+
+*   **Biomedical Laboratory Skills:**
+    *   **DNA/RNA manipulation:** DNA mini-prep, PCR, qPCR, CRISPR-Cas9 RNA interference.
+    *   **Protein techniques:** Protein purification (FPLC), SDS-PAGE, Western blot, ELISA.
+    *   **Cell culture:** Bacterial culture (aerobic and anaerobic), cell-surface display.
+    *   **Molecular cloning:** Gene manipulation, vector construction, transformation.
+    *   **Other techniques:** Fluorescence microscopy, flow cytometry (FACS), isothermal calorimetry (ITC), biolayer interferometry (BLI).
+
+*   **Computational skills:**
+    *   Computational biology and protein modeling using Rosetta suite.
+    *   Data analysis and visualization using Python and PyPlotly.
+    *   Experience with high-performance cluster computing.
+    *   Programming in Rust and Python.
+
+*   **Other skills:**
+    *   Scientific communication and presentation skills.
+    *   Grant writing and project funding (successfully secured an NIGMS Diversity Supplement Grant).
+    *   Team collaboration and interdisciplinary communication.
+    *   Proficient in using Electronic Health Records (EHR) systems and RPMS.
+    *   Experience in academic mentoring and tutoring.
+    *   Working knowledge of HIPAA compliance and privacy regulations.
+    *   Cultural sensitivity and experience working with diverse populations, including the Navajo and Tohono O'odham communities.
+
+### **Awards and Honors**
+*   UAZ Wildcat Excellence Award 
+*   Navajo Nation Chief Manuelito Scholarship Award
+*   American Indian Services Scholarship Award
+*   Whisper N Thunder WINDS Scholarship Award
+*   AT&T/AICF Full Circle Scholarship Award
+*   Native American Student Affairs Scholarship Award
+*   Maximizing Access to Research Careers Program Fellowship Award
+*   UAZ Outstanding Senior of the Year Award
+*   UAZ College of Science Galileo Circle Award
+*   UAZ Dean of Student's Robert L. Nugent Service Award
+*   Native American Student Affairs Outstanding Undergraduate Award
