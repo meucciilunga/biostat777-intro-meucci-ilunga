@@ -1,6 +1,8 @@
 ## Project 1 - 140.777
 
-This repository contains the source files, configuration, and style definitions for a Quarto-based website titled for Project 1 of the JHU-BSPH course 140.777. The website is built to showcase basic information about my academic and professional background.
+This repository contains the source files, configuration, and style definitions for a Quarto-based website for Project 1 of the JHU-BSPH course 140.777. The website is built to showcase basic information about my academic and professional background.
+
+Link to deployed site: **[insert here]**
 
 ## Table of Contents
 
