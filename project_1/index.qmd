@@ -4,5 +4,5 @@
 
 <div class="hero-text">
   <h1>Hello!</h1>
-  <p>My name is Deerspring, and born for the Bįįh Bitoodnii (Deerpsring); I am a first-year PhD student in Biostatistics at Johns Hopkins University, where I am a also Vivien Thomas Scholars Intiative fellow. My academic background includes a BSc in Biochemistry from the University of Arizona and research experience in computational biochemistry at MIT. I am particularly interested in research topics in data science related to spatial genomics, ML autoencoders, and environmental health and toxicology.</p>
+  <p>My name is Deerspring, and born for the Bįįh Bitoodnii; I am a first-year PhD student in Biostatistics at Johns Hopkins University, where I am a also Vivien Thomas Scholars Intiative fellow. My academic background includes a BSc in Biochemistry from the University of Arizona and research experience in computational biochemistry at MIT. I am particularly interested in research topics in data science related to spatial genomics, ML autoencoders, and environmental health and toxicology.</p>
 </div>
