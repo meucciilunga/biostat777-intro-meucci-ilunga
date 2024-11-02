@@ -14,7 +14,6 @@ website:
 
 format:
   html:
-    theme: morph
     css: styles.css
     toc: true
     link-decoration: underline
