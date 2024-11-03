@@ -388,6 +388,6 @@ It's a near universally accepted fact that while college in the United States is
     * Missing values for some schools in **Factor 2** section.
     * Out-dated data warning in **Factor 3** section.
 5. margin content
-    * used in this section (see little image on right)
+    * used in the summary section right above (see little image on right)
 6. citations
     * 4 in-text citations (linked to references.bib) used in summary section.
