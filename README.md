@@ -2,7 +2,7 @@
 
 This repository contains the source files, configuration, and style definitions for a Quarto-based website for Project 1 of the JHU-BSPH course 140.777. The website is built to showcase basic information about my academic and professional background.
 
-Link to deployed site: **[insert here]**
+Link to deployed site: **[https://meucciilunga.github.io/biostat777-intro-meucci-ilunga/](https://meucciilunga.github.io/biostat777-intro-meucci-ilunga/)**
 
 ## Table of Contents
 
